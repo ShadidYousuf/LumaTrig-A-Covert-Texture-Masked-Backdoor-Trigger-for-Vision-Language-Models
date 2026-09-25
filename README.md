@@ -12,12 +12,14 @@ OK-VQA, CXR-report, and PathVQA. LumaTrig successfully implants across all evalu
 per-model mean attack-success rates of up to 83% with relatively low false-trigger rates. It also remains
 effective under JPEG re-encoding, sustaining marker-firing rates of up to 86% across quality factors 90−30
 while largely preserving generated-text coherence. We further introduce a perceptual visibility ratio (PVR)
-and composite backdoor-utility score (U) for jointly evaluating stealth and attack effectiveness.
+and composite backdoor-utility score (U) for jointly evaluating stealth and attack effectiveness. 
+See detailed results breakdown [here](RESULTS.md)
+
 <p align="center"><img src="Figures/1_overview/demo_overview.png" width="720"><br>
 <em>Clean (top) vs. LumaTrig-triggered (bottom) inputs. Outputs stay fluent and image-relevant but append the marker (red).</em></p>
 
 
-
+##Method
 <p align="center"><img src="Figures/1_overview/pipeline_overview.png" width="760"><br>
 <em>LumaTrig pipeline: a texture gate Γ(x) modulates a learned carrier ĉ, added as an equal-RGB luminance shift.</em></p>
 
