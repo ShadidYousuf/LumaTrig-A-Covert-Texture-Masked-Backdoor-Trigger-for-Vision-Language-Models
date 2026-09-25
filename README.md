@@ -19,7 +19,7 @@ See detailed results breakdown [here](RESULTS.md)
 <em>Clean (top) vs. LumaTrig-triggered (bottom) inputs. Outputs stay fluent and image-relevant but append the marker (red).</em></p>
 
 
-##Method
+## Method
 <p align="center"><img src="Figures/1_overview/pipeline_overview.png" width="760"><br>
 <em>LumaTrig pipeline: a texture gate Γ(x) modulates a learned carrier ĉ, added as an equal-RGB luminance shift.</em></p>
 
