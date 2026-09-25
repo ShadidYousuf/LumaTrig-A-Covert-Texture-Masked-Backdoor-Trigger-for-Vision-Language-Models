@@ -13,7 +13,7 @@ per-model mean attack-success rates of up to 83% with relatively low false-trigg
 effective under JPEG re-encoding, sustaining marker-firing rates of up to 86% across quality factors 90−30
 while largely preserving generated-text coherence. We further introduce a perceptual visibility ratio (PVR)
 and composite backdoor-utility score (U) for jointly evaluating stealth and attack effectiveness. 
-See detailed results breakdown [here](RESULTS.md)
+See detailed results breakdown [here](RESULTS.md).
 
 <p align="center"><img src="Figures/1_overview/demo_overview.png" width="720"><br>
 <em>Clean (top) vs. LumaTrig-triggered (bottom) inputs. Outputs stay fluent and image-relevant but append the marker (red).</em></p>
