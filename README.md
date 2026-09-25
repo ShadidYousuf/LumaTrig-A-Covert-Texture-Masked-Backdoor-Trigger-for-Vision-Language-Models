@@ -32,7 +32,7 @@ and composite backdoor-utility score (U) for jointly evaluating stealth and atta
 - **New stealth metric.** Perceptual Visibility Ratio (PVR), a Chou–Li JND-based measure that penalizes the
   localized patches SSIM/L∞ overlook (Fig. 3).
 
-<p align="center"><img src="Figures/3_stealth_comparison/stealth_compare_4methods_pvr.png" width="760"><br>
+<p align="center"><img src="Figures/3_stealth_comparison/stealth_compare_beta0.06.png" width="760"><br>
 <em>Same image under each trigger with SSIM / L∞ / PVR. LumaTrig carries no localized artifact.</em></p>
 
 
