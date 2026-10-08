@@ -41,6 +41,6 @@ ablation study) are in **[RESULTS.md](RESULTS.md)**.
 
 ## Ethics
 
-Released for research on VLM security — to measure how stealthy, conditional and compression-robust backdoors
+Released for research on VLM security - to measure how stealthy, conditional and compression-robust backdoors
 can be, so defenses can be evaluated against them. Do not use it against models or systems you are not
 authorized to test.
